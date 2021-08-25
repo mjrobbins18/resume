@@ -1,0 +1,20 @@
+{
+    "name": "Max Robbins",
+    "linkedin": "https://www.linkedin.com/in/maxwell-robbins-1b614a23/",
+    "github": "https://github.com/mjrobbins18",
+    "email": "maxrobbins88@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "HTML",
+        "Node",
+        "CSS"
+    ],
+    "otherSkills": ["cooking"],
+    "softSkills": [
+        "team management",
+        "hospitality management",
+        "project management",
+        "interpersonal communication"
+    ]
+}
